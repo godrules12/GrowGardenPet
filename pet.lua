@@ -1,4 +1,4 @@
-local PetAssetID = "rbxassetid://11262253318"
+local PetAssetID = "rbxassetid://11262253318" -- Cat model (public)
 local PetName = "MyPet"
 local FollowDistance = 6
 
